@@ -1,7 +1,7 @@
 variable "rg-name" {
   description = "The name of the Resource Group"
   type        = string
-  default = "rg-cdo-dev-kyncdm"
+  default     = "rg-cdo-dev-kyncdm"
 }
 
 variable "location" {
